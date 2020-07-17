@@ -1,0 +1,10 @@
+import turtle
+turtle.pensize(2)
+turtle.pencolor("red")
+turtle.left(45)
+turtle.fd(200)
+turtle.circle(100,180)
+turtle.right(90)
+turtle.circle(100,180)
+turtle.fd(200)
+turtle.done()
